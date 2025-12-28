@@ -1,0 +1,18 @@
+{
+  "name": "http-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm run build",
+  "start": "pnpm run start",
+  "run": "pnpm run dev"
+
+  },
+  "dependencies": {
+    "@repo/typescript-config":"workspace:*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
